@@ -16,7 +16,7 @@ My mission is simple:
 
 Most engineers focus on writing code.
 
-I focus on understanding systems—finding patterns, anticipating failures, debugging across layers, and designing solutions that work not only today, but scale for tomorrow.
+I focus on understanding systems, finding patterns, anticipating failures, debugging across layers, and designing solutions that work not only today, but scale for tomorrow.
 
 I enjoy being the engineer who sees the full picture.
 
