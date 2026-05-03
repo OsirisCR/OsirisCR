@@ -1,6 +1,6 @@
 # Hi, I'm Osiris 👋
 
-### AI Systems Architect | Mechatronics Engineer | Software Engineer
+### AI Systems Architect | Software Engineer
 
 I build intelligent systems that connect software, hardware, data, and people.
 
